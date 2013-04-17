@@ -1,3 +1,6 @@
+# Ignore vim temp files
+.*~
+
 dist
 cabal-dev
 *.o
